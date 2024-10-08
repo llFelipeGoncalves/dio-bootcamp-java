@@ -1,4 +1,4 @@
-package edu.luiz.tema.tipos_variaveis;
+package edu.tema.tipos_variaveis;
 
 public class TiposVariaveis {
     @SuppressWarnings("unused")

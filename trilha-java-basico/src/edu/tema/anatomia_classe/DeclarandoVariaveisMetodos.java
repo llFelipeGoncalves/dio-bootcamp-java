@@ -1,3 +1,5 @@
+package edu.tema.anatomia_classe;
+
 public class DeclarandoVariaveisMetodos {
     public static void main(String[] args) {
         

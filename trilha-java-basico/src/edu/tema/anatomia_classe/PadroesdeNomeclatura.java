@@ -1,3 +1,5 @@
+package edu.tema.anatomia_classe;
+
 public class PadroesdeNomeclatura {
     @SuppressWarnings("unused") //nao alerta que existem variaveis nao sendo usadas 
     public static void main(String [] args) {
