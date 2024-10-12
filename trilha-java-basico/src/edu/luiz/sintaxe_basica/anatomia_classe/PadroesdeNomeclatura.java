@@ -1,4 +1,4 @@
-package edu.tema.anatomia_classe;
+package edu.luiz.sintaxe_basica.anatomia_classe;
 
 public class PadroesdeNomeclatura {
     @SuppressWarnings("unused") //nao alerta que existem variaveis nao sendo usadas 

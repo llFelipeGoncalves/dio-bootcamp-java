@@ -1,4 +1,4 @@
-package edu.tema.terminais_argumentos;
+package edu.luiz.sintaxe_basica.terminais_argumentos;
 import java.util.Scanner;
 
 public class Argumentos {

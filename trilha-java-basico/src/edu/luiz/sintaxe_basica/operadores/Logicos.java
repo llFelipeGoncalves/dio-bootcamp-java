@@ -1,4 +1,4 @@
-package edu.tema.operadores;
+package edu.luiz.sintaxe_basica.operadores;
 
 public class Logicos {
     public static void main(String[] args) {
