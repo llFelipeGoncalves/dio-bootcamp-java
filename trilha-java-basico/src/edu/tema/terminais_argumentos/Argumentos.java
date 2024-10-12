@@ -10,5 +10,10 @@ public class Argumentos {
         String nome = scanner.next();
 
         System.out.println("meu nome é: " + nome);
+
+        System.out.println("Digite sua idade");
+        int idade = scanner.nextInt();
+
+        System.out.println("Sua idade é: " + idade);
     }    
 }
